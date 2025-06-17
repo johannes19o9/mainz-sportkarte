@@ -1,0 +1,15 @@
+#map {
+  height: 100vh;
+  width: 100%;
+}
+#title {
+  background: white;
+  color: black;
+  padding: 10px 20px;
+  font-size: 1.6rem;      /* etwas größer */
+  font-weight: 700;       /* fett */
+  text-align: center;
+  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+  position: relative;
+  z-index: 1000;
+}
